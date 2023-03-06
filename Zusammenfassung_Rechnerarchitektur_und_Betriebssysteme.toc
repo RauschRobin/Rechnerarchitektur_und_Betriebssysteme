@@ -1,4 +1,0 @@
-\babel@toc {ngerman}{}\relax 
-\contentsline {section}{\numberline {1}Rechnerarchitektur Zusammenfassung alles hier rein}{2}{section.1}%
-\contentsline {section}{\numberline {2}Betriebssysteme Grundlagen}{2}{section.2}%
-\contentsline {subsection}{\numberline {2.1}Erste Vorlesung}{2}{subsection.2.1}%
